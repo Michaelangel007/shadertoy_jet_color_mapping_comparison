@@ -308,20 +308,20 @@ Unfortunately it has the same problems as Jet.
 
 ## Thumbnails
 
-| Color Map | Gradients | Curves |
-|:--|:--|:--|
-| ![Original     ](thumbs/original.png)            | ---                                               | ---                                            |
-| ![Jet          ](thumbs/colormap_jet.png)        | ![Viridus      ](thumbs/gradients_viridus.png)    | ![Viridus      ](thumbs/curves_viridus.png)    |
-| ![Turbo        ](thumbs/colormap_turbo.png)      | ![Parula       ](thumbs/gradients_parula.png)     | ![Parula       ](thumbs/curves_parula.png)     |
-| ![Sine Jet     ](thumbs/colormap_sine_jet.png)   | ![Plasma       ](thumbs/gradients_plasma.png)     | ![Plasma       ](thumbs/curves_plasma.png)     |
-| ![Hot Cold     ](thumbs/colormap_hotcold.png)    | ![Magma        ](thumbs/gradients_magma.png)      | ![Magma        ](thumbs/curves_magma.png)      |
-| ![Sine Enigma  ](thumbs/colormap_sine_enigma.png)| ![Inferno      ](thumbs/gradients_inferno.png)    | ![Inferno      ](thumbs/curves_inferno.png)    |
-| ![Black & White](thumbs/colormap_bw.png)         | ![Black & White](thumbs/gradients_bw.png)         | ![Black & White](thumbs/curves_bw.png)         |
-| ![Inferno      ](thumbs/colormap_inferno.png)    | ![Sine Enigma  ](thumbs/gradients_sine_enigma.png)| ![Sine Enigma  ](thumbs/curves_sine_enigma.png)|
-| ![Magma        ](thumbs/colormap_magma.png)      | ![Hot Cold     ](thumbs/gradients_hotcold.png)    | ![Hot Cold     ](thumbs/curves_hotcold.png)    |
-| ![Plasma       ](thumbs/colormap_plasma.png)     | ![Sine Jet     ](thumbs/gradients_sine_jet.png)   | ![Sine Jet     ](thumbs/curves_sine_jet.png)   |
-| ![Parula       ](thumbs/colormap_parula.png)     | ![Turbo        ](thumbs/gradients_turbo.png)      | ![Turbo        ](thumbs/curves_turbo.png)      |
-| ![Viridus      ](thumbs/colormap_viridus.png)    | ![Jet          ](thumbs/gradients_jet.png)        | ![Jet          ](thumbs/curves_jet.png)        |
+| Color Map | Thumbnail | Gradients | Curves |
+|:--|:--|:--|:--|
+| Original     | ![Original     ](thumbs/original.png)            | ---                                               | ---                                             |
+| Jet          | ![Jet          ](thumbs/colormap_jet.png)        | ![Viridus      ](thumbs/gradients_jet.png)        | ![Viridus      ](thumbs/curves_jet.png)         |
+| Turbo        | ![Turbo        ](thumbs/colormap_turbo.png)      | ![Parula       ](thumbs/gradients_turbo.png)      | ![Parula       ](thumbs/curves_turbo.png)       |
+| Sine Jet     | ![Sine Jet     ](thumbs/colormap_sine_jet.png)   | ![Plasma       ](thumbs/gradients_sine_jet.png)   | ![Plasma       ](thumbs/curves_sine_jet.png)    |
+| Hot Cold     | ![Hot Cold     ](thumbs/colormap_hotcold.png)    | ![Magma        ](thumbs/gradients_hotcold.png)    | ![Magma        ](thumbs/curves_hotcold.png)     |
+| Sine Enigma  | ![Sine Enigma  ](thumbs/colormap_sine_enigma.png)| ![Inferno      ](thumbs/gradients_sine_enigma.png)| ![Inferno      ](thumbs/curves_sine_enigma.png) |
+| Black & White| ![Black & White](thumbs/colormap_bw.png)         | ![Black & White](thumbs/gradients_bw.png)         | ![Black & White](thumbs/curves_bw.png)          |
+| Inferno      | ![Inferno      ](thumbs/colormap_inferno.png)    | ![Sine Enigma  ](thumbs/gradients_inferno.png)    | ![Sine Enigma  ](thumbs/curves_inferno.png)     |
+| Magma        | ![Magma        ](thumbs/colormap_magma.png)      | ![Hot Cold     ](thumbs/gradients_magma.png)      | ![Hot Cold     ](thumbs/curves_magma.png)       |
+| Plasma       | ![Plasma       ](thumbs/colormap_plasma.png)     | ![Sine Jet     ](thumbs/gradients_plasma.png)     | ![Sine Jet     ](thumbs/curves_plasma.png)      |
+| Parula       | ![Parula       ](thumbs/colormap_parula.png)     | ![Turbo        ](thumbs/gradients_parula.png)     | ![Turbo        ](thumbs/curves_parula.png)      |
+| Viridus      | ![Viridus      ](thumbs/colormap_viridus.png)    | ![Jet          ](thumbs/gradients_viridus.png)    | ![Jet          ](thumbs/curves_viridus.png)     |
 
 ## Full Resolution
 
