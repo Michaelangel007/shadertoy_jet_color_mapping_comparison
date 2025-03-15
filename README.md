@@ -9,9 +9,9 @@
 
 2. ... move the mouse left/right to select the mode:
 
- * Left   1/3: photo mode ![Jet colormap](thumbs/colormap_jet.png)
- * Middle 1/3: gradient mode ![Jet gradients](thumbs/gradients_jet.png)
- * Right  1/3: RGB curves mode ![Jet curves](thumbs/curves_jet.png)
+ * Left   1/3: photo mode ![Jet colormap](thumbs/instructions_colormap_jet.png)
+ * Middle 1/3: gradient mode ![Jet gradients](thumbs/instructions_gradients_jet.png)
+ * Right  1/3: RGB curves mode ![Jet curves](thumbs/instructions_curves_jet.png)
 
 3. ... move the mouse up/down to select the algorithm:
 
