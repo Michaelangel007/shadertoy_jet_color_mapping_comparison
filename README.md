@@ -9,9 +9,9 @@
 
 2. ... move the mouse left/right to select the mode:
 
- * Left   1/3: photo mode
- * Middle 1/3: gradient mode
- * Right  1/3: RGB curves mode
+ * Left   1/3: photo mode ![Jet colormap](thumbs/colormap_jet.png)
+ * Middle 1/3: gradient mode ![Jet gradients](thumbs/gradients_jet.png)
+ * Right  1/3: RGB curves mode ![Jet curves](thumbs/curves_jet.png)
 
 3. ... move the mouse up/down to select the algorithm:
 
@@ -297,7 +297,7 @@ If have this hue2rgb function that implements HSV when S=1 and V=1 ...
     }
 ```
 
-# "Turbo"
+# Turbo
 
 Good made a Jet replacement with polynomial approximation to have
 more uniform brightness.
