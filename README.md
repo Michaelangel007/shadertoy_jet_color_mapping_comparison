@@ -15,19 +15,19 @@
 
 3. ... move the mouse up/down to select the algorithm:
 
- A. Jet (popularized MATLAB)
- B. Turbo (Google)
- C. Sine Jet (Michael Pohoreski)
- D. EvalDraw (Ken Silverman)
- E. Hot Cold
- F. Sine Enigma (Michael Pohoreski)
- G. Black & White (Perceived Lightness)
- H. Inferno
- I. Magma
- J. Plasma
- K. Parula (by wagyx and not MATHLAB's "propietary" color mapping. LUL.)
- L. Viridus (open-source replacement for Parula)
- M. Original image (Easter Egg)
+ * A. Jet (popularized MATLAB)
+ * B. Turbo (Google)
+ * C. Sine Jet (Michael Pohoreski)
+ * D. EvalDraw (Ken Silverman)
+ * E. Hot Cold
+ * F. Sine Enigma (Michael Pohoreski)
+ * G. Black & White (Perceived Lightness)
+ * H. Inferno
+ * I. Magma
+ * J. Plasma
+ * K. Parula (by wagyx and not MATHLAB's "propietary" color mapping. LUL.)
+ * L. Viridus (open-source replacement for Parula)
+ * M. Original image (Easter Egg)
 
 The bars in gradient mode are:
 
@@ -86,7 +86,7 @@ MATLAB defines several color maps:
 * https://www.mathworks.com/help/matlab/ref/colormap.html
 
 It is defined as a linear ramp between the following 9 colors:
-
+```
    Stop  HexRGB   Color Float          Color Name
    0/8:  #00007F  vec3(0.0, 0.0, 0.5)  dark blue
    1/8:  #0000FF  vec3(0.0, 0.0, 1.0)  blue
@@ -97,7 +97,7 @@ It is defined as a linear ramp between the following 9 colors:
    6/8:  #FF7F00  vec3(1.0, 0.5, 0.0)  orange
    7/8:  #FF0000  vec3(1.0, 0.0, 0.0)  red
    8/8:  #7F0000  vec3(0.5, 0.0, 0.0)  dark red
-
+```
 An naive algorithm that implements the Jet color remapping is:
 
 ```glsl
@@ -337,20 +337,6 @@ Unfortunately it has the same problems as Jet.
 * [Colormap Plasma       ](pics/colormap_plasma.png)     , [Gradients Plasma       ](pics/gradients_plasma.png)     , [Curves Plasma       ](pics/curves_plasma.png)
 * [Colormap Parula       ](pics/colormap_parula.png)     , [Gradients Parula       ](pics/gradients_parula.png)     , [Curves Parula       ](pics/curves_parula.png)
 * [Colormap Viridus      ](pics/colormap_viridus.png)    , [Gradients Viridus      ](pics/gradients_viridus.png)    , [Curves Viridus      ](pics/curves_viridus.png)
-
- A. Jet (popularized MATLAB)
- B. Turbo (Google)
- C. Sine Jet (Michael Pohoreski)
- D. EvalDraw (Ken Silverman)
- E. Hot Cold
- F. Sine Enigma (Michael Pohoreski)
- G. Black & White (Perceived Lightness)
- H. Inferno
- I. Magma
- J. Plasma
- K. Parula (by wagyx and not MATHLAB's "propietary" color mapping. LUL.)
- L. Viridus (open-source replacement for Parula)
- M. Original image (Easter Egg)
 
 # Also see
 
